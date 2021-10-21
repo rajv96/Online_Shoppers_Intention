@@ -17,3 +17,5 @@ The values of these features are derived from the URL information of the pages v
 1. K-Means Clustering
 2. Hierarchical Clustering
 3. Principal Component Analysis (PCA) for Dimensionality Reduction
+
+The customers were grouped under two labels on whether they were generating any revenue for the company or not.
